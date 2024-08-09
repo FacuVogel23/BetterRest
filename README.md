@@ -6,7 +6,7 @@ With this project, I gave my first steps into a fascinating area of programming 
 I work through:
 </p>
 
-- Entering numbers wuth Stepper
+- Entering numbers with Stepper
 - Selecting dates and times with DatePicker
 - Working with dates
 - Training a model with Create ML
